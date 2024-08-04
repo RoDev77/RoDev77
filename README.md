@@ -32,9 +32,12 @@
   <a href="https://www.instagram.com/ahmadrodiii" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
+  <a href="https://whatsapp.com/channel/0029Vafw7S98kyyK1pvVdD3B" rel="nofollow">
+    <img src="https://img.shields.io/badge/WhatsApp-E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+  </a>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RoDev" style="max-width:100%"; />
+<img src="https://github-profile-trophy.vercel.app/?username=RoDev77" style="max-width:100%"; />
 </div>
 
 
