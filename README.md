@@ -36,7 +36,16 @@
     <img src="https://img.shields.io/badge/WhatsApp-E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
   </a>
 
-<h3>Achievement</h3>
+### :unicorn: My Stats :
+<p align="center"><a href="https://github.com/RoDev77/followers"><img title="Followers" src="https://img.shields.io/github/followers/RoDev77?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DGXeon&color=green&style=flat-square&label=Profile+View"></a>
+</p>
+<p align="center"><a href="https://github.com/RoDev77"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/RoDev77"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
+
+---
+
+### Achievement :
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RoDev77" style="max-width:100%"; />
 </div>
@@ -46,13 +55,3 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=RoDev&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-### :unicorn: My Stats :
-<p align="center"><a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DGXeon&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-<p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
-
----
-
