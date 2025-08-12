@@ -37,7 +37,7 @@
   </a>
 
 ### :unicorn: My Stats :
-<p align="center"><a href="https://github.com/RoDev77/followers"><img title="Followers" src="https://img.shields.io/github/followers/RoDev77?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://github.com/RoDev77/follow"><img title="Followers" src="https://img.shields.io/github/followers/RoDev77?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=RoDev77&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RoDev77&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/RoDev77"><img src="https://github-readme-stats.vercel.app/api?username=RoDev77&show_icons=true&theme=radical"></a></p>
