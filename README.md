@@ -1,53 +1,51 @@
-<h1 align="center" dir="auto"><a id="user-content---𝓦𝓮𝓵𝓬𝓸𝓶𝓮-𝓽𝓸-𝓶𝔂-𝓟𝓻𝓸𝓯𝓲𝓵𝓮--" class="anchor" aria-hidden="true" href="#--𝓦𝓮𝓵𝓬𝓸𝓶𝓮-𝓽𝓸-𝓶𝔂-𝓟𝓻𝓸𝓯𝓲𝓵𝓮--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png"></h1>
-
-
-<div align="center">
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&logo=Made%20In&logoColor=white" alt="Made In" />
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&logo=Indonesia&logoColor=white" alt="Indonesia" />
-  </a>
-<div align="center">
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Codes%20By-FF0000?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/RoDev-FFFFFF?style=for-the-badge&logo=RoDev&logoColor=white" alt="RoDev" />
-  </a>
-</div>
-<div align="center">
-  <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Vcodes404-FF0000?style=for-the-badge&logo=Codesphered01010&logoColor=white" alt="Codesphered01010" />
-</a>
-</div>
-  
-
-<div id="header" align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="300"/>
-</div>
-
- <div align="center" dir="auto">
-  <h3>Contact me</h3>
-  <a href="https://www.instagram.com/ahmadrodiii" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vafw7S98kyyK1pvVdD3B" rel="nofollow">
-    <img src="https://img.shields.io/badge/WhatsApp-E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-  </a>
-
-### :unicorn: My Stats :
-<p align="center"><a href="https://github.com/RoDev77/follow"><img title="Followers" src="https://img.shields.io/github/followers/RoDev77?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=RoDev77&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RoDev77&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/77378276?v=4" height="96" alt="RoDev77">
 </p>
-<p align="center"><a href="https://github.com/RoDev77"><img src="https://github-readme-stats.vercel.app/api?username=RoDev77&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/RoDev77"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoDev77&theme=radical&layout=compact"></a></p>
 
-### Achievement :
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RoDev77" style="max-width:100%"; />
-</div>
+<h1 align="center">Ahmad Rodi</h1>
 
+<h3 align="center">An independent builder in Indonesia, working with an AI agent on BNB Chain.</h3>
 
-<h1 align="center" dir="auto"><a id="user-content---𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--" class="anchor" aria-hidden="true" href="#---𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png"></h1>
-</div>
+<p align="center">
+  <a href="https://x.com/rodiishere">X</a> ·
+  <a href="https://rodev77.github.io/no-names/">No Names</a> ·
+  <a href="https://mywifi.rstudiolab.tech">R STUDIO LABS</a> ·
+  <a href="https://make.fun/r/1q2xs358">make.fun</a>
+</p>
+
+I build and run small Web3 projects with my AI agent (Agent ID: ahmadrodi.ai) doing much of the work in the open: smart contracts, websites, and bounty entries whose code and build transcripts are public. My main project is No Names, a collection of 7,777 on-chain generative NFTs on BNB Chain whose mint is gated by Binance Agent ID. I also hunt bounties on make.fun as @ahmadrodi and run R STUDIO LABS, a WiFi rental service in Indonesia.
+
+## Repositories
+
+| Repository | What's in it |
+| --- | --- |
+| [no-names](https://github.com/RoDev77/no-names) | No Names: the verified contracts (the collection and its non-custodial marketplace), the mint site, and the skill file an agent follows to mint. |
+| [wallet-guard](https://github.com/RoDev77/wallet-guard) | Wallet Guard: a checker that reads a wallet's live token approvals and unsigned transactions on BSC and answers ALLOW, REVIEW or BLOCK. Entered in zkVerify Agent Games Season 01. |
+| [makefun-guide](https://github.com/RoDev77/makefun-guide) | A field guide to earning on make.fun with an AI agent, written from my own entries and results. |
+| [gta6-meme-x-01](https://github.com/RoDev77/gta6-meme-x-01) | A GTA 6 meme drawn by my AI agent for a make.fun bounty, posted on X. |
+| [mywifi-router](https://github.com/RoDev77/mywifi-router) | The R STUDIO LABS WiFi rental site: pick a duration, pay by QRIS, and the network name and password arrive by WhatsApp. |
+| [airdrop-agent](https://github.com/RoDev77/airdrop-agent) | An airdrop task toolkit for AI agents. |
+
+## What is No Names?
+
+No Names is 7,777 generative NFTs drawn entirely on-chain as SVG: no image files, no off-chain metadata. Minting is proof-of-work — an agent grinds a nonce until its hash clears the current difficulty — and the contract checks that the minter holds a Binance Agent ID before it accepts the mint. The marketplace is non-custodial and charges no fee; the collection's 5% royalty is paid through ERC-2981. Both contracts are open source and verified.
+
+- Collection: [0x6a41fc45ed62658af72ee334fa523013ad34ca85](https://bscscan.com/address/0x6a41fc45ed62658af72ee334fa523013ad34ca85)
+- Marketplace: [0xbc638c07a1cefeb3b6a1606cc61356009a008530](https://bscscan.com/address/0xbc638c07a1cefeb3b6a1606cc61356009a008530)
+- Site: [rodev77.github.io/no-names](https://rodev77.github.io/no-names/)
+- Entered in the Binance Wallet Agent ID Hackathon, submission period 18 November – 9 December 2026.
+
+## What do I do on make.fun?
+
+make.fun pays USDC to people and AI agents who win bounties; an entry is a public repository plus the transcript of the AI session that built it. My agent enters as @ahmadrodi, and every entry it submits is in a public repo here. Its first paid finish was btc-cent-forecast-01: rank 93, $1.50, paid automatically. The target stays the paid places, ranks 1–100.
+
+## R STUDIO LABS
+
+R STUDIO LABS rents WiFi by the hour in Indonesia: Rp5,000 per hour plus a small service fee, QRIS only, and the network name and password are sent by WhatsApp once payment is confirmed. The site is at [mywifi.rstudiolab.tech](https://mywifi.rstudiolab.tech).
+
+## Links
+
+- X: [x.com/rodiishere](https://x.com/rodiishere)
+- No Names: [rodev77.github.io/no-names](https://rodev77.github.io/no-names/)
+- R STUDIO LABS: [mywifi.rstudiolab.tech](https://mywifi.rstudiolab.tech)
+- make.fun: [make.fun/r/1q2xs358](https://make.fun/r/1q2xs358), my referral link
