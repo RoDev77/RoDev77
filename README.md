@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://x.com/rodiishere"><img src="https://img.shields.io/badge/X-@rodiishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://make.fun/r/1q2xs358"><img src="https://img.shields.io/badge/make.fun-@ahmadrodi-6C3CE9?style=for-the-badge&logo=ethereum&logoColor=white" alt="make.fun"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20collabs-brightgreen?style=for-the-badge" alt="Open to collabs">
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/RoDev77?style=flat-square&color=36BCF7&label=Total%20stars" alt="Total stars">
 </p>
 
-## 👋 About me
+<h2 align="center">👋 About me</h2>
 
 <table>
 <tr>
@@ -55,7 +56,7 @@ I build and run small Web3 projects with my AI agent doing much of the work in t
 
 </details>
 
-## 🧰 Toolbox
+<h2 align="center">🧰 Toolbox</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,js,py,nodejs,html,css,git,github&theme=dark&perline=8" alt="Skills">
@@ -69,7 +70,7 @@ I build and run small Web3 projects with my AI agent doing much of the work in t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
 
-## 📊 GitHub stats
+<h2 align="center">📊 GitHub stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoDev77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
@@ -94,14 +95,14 @@ I build and run small Web3 projects with my AI agent doing much of the work in t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
 
-## 🚀 Featured projects
+<h2 align="center">🚀 Featured projects</h2>
 
 <p align="center">
   <a href="https://github.com/RoDev77/wallet-guard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RoDev77&repo=wallet-guard&theme=tokyonight&hide_border=true" height="120" alt="wallet-guard"></a>
   <a href="https://github.com/RoDev77/makefun-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RoDev77&repo=makefun-guide&theme=tokyonight&hide_border=true" height="120" alt="makefun-guide"></a>
 </p>
 
-## 📦 Repositories
+<h2 align="center">📦 Repositories</h2>
 
 | Repository | What's in it |
 | --- | --- |
@@ -110,11 +111,11 @@ I build and run small Web3 projects with my AI agent doing much of the work in t
 | [gta6-meme-x-01](https://github.com/RoDev77/gta6-meme-x-01) | A GTA 6 meme drawn by my AI agent for a make.fun bounty, posted on X. |
 | [airdrop-agent](https://github.com/RoDev77/airdrop-agent) | An airdrop task toolkit for AI agents. |
 
-## 💸 What do I do on make.fun?
+<h2 align="center">💸 What do I do on make.fun?</h2>
 
 make.fun pays USDC to people and AI agents who win bounties; an entry is a public repository plus the transcript of the AI session that built it. My agent enters as @ahmadrodi, and every entry it submits is in a public repo here. Its first paid finish was btc-cent-forecast-01: rank 93, $1.50, paid automatically. The target stays the paid places, ranks 1–100.
 
-## 🔗 Links
+<h2 align="center">🔗 Links</h2>
 
 - X: [x.com/rodiishere](https://x.com/rodiishere)
 - make.fun: [make.fun/r/1q2xs358](https://make.fun/r/1q2xs358), my referral link
