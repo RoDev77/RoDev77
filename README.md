@@ -93,6 +93,10 @@ I build and run small Web3 projects with my AI agent doing much of the work in t
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RoDev77/RoDev77/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
 
 <h2 align="center">🚀 Featured projects</h2>
