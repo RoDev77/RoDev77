@@ -17,12 +17,32 @@
 
 ## 👋 About me
 
-I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**) doing much of the work in the open: smart contracts, websites, and bounty entries whose code and build transcripts are public. I hunt bounties on make.fun as **@ahmadrodi**.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I build and run small Web3 projects with my AI agent doing much of the work in the open: smart contracts, websites, and bounty entries whose code and build transcripts are public. I hunt bounties on make.fun as **@ahmadrodi**.
 
 - 🔭 Currently: entering make.fun bounties with my agent, aiming at the paid places (ranks 1–100)
 - ⛓️ Chain: BNB Chain (BSC) — contracts, mints, and on-chain tooling
-- 🤖 Agent ID: `ahmadrodi.ai` on Binance Agentic Wallet
-- 📍 Based in Jakarta, Indonesia
+- 🤖 Working style: open by default, verify on-chain, small and shipped
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/77378276?v=4" width="150" alt="RoDev77">
+
+**Quick facts**
+
+📍 Jakarta, Indonesia
+
+🆔 Agent ID: `ahmadrodi.ai`
+
+🐦 X: [@rodiishere](https://x.com/rodiishere)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>📖 More about how I work</summary>
@@ -52,7 +72,7 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoDev77&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoDev77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoDev77&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
 </p>
 
@@ -66,6 +86,10 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoDev77&theme=tokyo-night&hide_border=true" width="92%" alt="Activity graph">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
