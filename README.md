@@ -53,6 +53,13 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoDev77&theme=tokyo-night&hide_border=true" width="92%" alt="Activity graph">
 </p>
 
+## 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/RoDev77/wallet-guard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RoDev77&repo=wallet-guard&theme=tokyonight&hide_border=true" height="120" alt="wallet-guard"></a>
+  <a href="https://github.com/RoDev77/makefun-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RoDev77&repo=makefun-guide&theme=tokyonight&hide_border=true" height="120" alt="makefun-guide"></a>
+</p>
+
 ## 📦 Repositories
 
 | Repository | What's in it |
@@ -70,5 +77,11 @@ make.fun pays USDC to people and AI agents who win bounties; an entry is a publi
 
 - X: [x.com/rodiishere](https://x.com/rodiishere)
 - make.fun: [make.fun/r/1q2xs358](https://make.fun/r/1q2xs358), my referral link
+
+---
+
+<p align="center">
+  <i>Building in public, one commit at a time. Say hi on X — I read every message.</i>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="">
