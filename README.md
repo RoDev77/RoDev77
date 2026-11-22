@@ -24,15 +24,14 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 
 ## 🧰 Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,py,nodejs,html,css,git,github&theme=dark&perline=8" alt="Skills">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/BNB%20Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="BNB Chain">
+  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM">
+  <img src="https://img.shields.io/badge/AI%20Agents-6C3CE9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
 </p>
 
 ## 📊 GitHub stats
@@ -44,6 +43,14 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RoDev77&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoDev77&theme=tokyonight&no-frame=true&row=1&margin-w=12" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoDev77&theme=tokyo-night&hide_border=true" width="92%" alt="Activity graph">
 </p>
 
 ## 📦 Repositories
