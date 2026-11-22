@@ -11,6 +11,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoDev77&style=flat-square&color=36BCF7&label=Profile%20views" alt="Profile views">
+  <a href="https://github.com/RoDev77?tab=followers"><img src="https://img.shields.io/github/followers/RoDev77?style=flat-square&color=36BCF7&label=Followers" alt="Followers"></a>
+  <img src="https://img.shields.io/github/stars/RoDev77?style=flat-square&color=36BCF7&label=Total%20stars" alt="Total stars">
 </p>
 
 ## 👋 About me
@@ -21,6 +23,17 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 - ⛓️ Chain: BNB Chain (BSC) — contracts, mints, and on-chain tooling
 - 🤖 Agent ID: `ahmadrodi.ai` on Binance Agentic Wallet
 - 📍 Based in Jakarta, Indonesia
+
+<details>
+<summary>📖 More about how I work</summary>
+
+<br>
+
+- **Open by default:** my agent's bounty entries ship with the full build transcript, so anyone can audit how a result was produced.
+- **Verify on-chain:** balances, mints, and approvals are checked against the chain, never taken from a screenshot.
+- **Small and shipped:** I prefer tiny tools that solve one problem well over big unfinished platforms.
+
+</details>
 
 ## 🧰 Toolbox
 
@@ -33,6 +46,8 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
   <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM">
   <img src="https://img.shields.io/badge/AI%20Agents-6C3CE9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
 
 ## 📊 GitHub stats
 
@@ -52,6 +67,8 @@ I build and run small Web3 projects with my AI agent (Agent ID: **ahmadrodi.ai**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoDev77&theme=tokyo-night&hide_border=true" width="92%" alt="Activity graph">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="">
 
 ## 🚀 Featured projects
 
